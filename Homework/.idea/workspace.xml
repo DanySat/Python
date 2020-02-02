@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="1ff00b60-a2ef-49e9-8d1a-038d86a17331" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/HW3/les_3_task_1.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/HW3/Урок 3. Ветвления и циклы" afterDir="false" />
@@ -10,12 +11,16 @@
       <change beforePath="$PROJECT_DIR$/HW2/Снимок экрана 2020-01-28 в 20.55.54.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/HW2/Снимок экрана 2020-01-28 в 21.17.39.png" beforeDir="false" />
     </list>
+=======
+    <list default="true" id="1ff00b60-a2ef-49e9-8d1a-038d86a17331" name="Default Changelist" comment="" />
+>>>>>>> master
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Homework$les_2_task_5.coverage" NAME="les_2_task_5 Coverage Results" MODIFIED="1580235389938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW2" />
     <SUITE FILE_PATH="coverage/Homework$les_2_task_2_.coverage" NAME="les_2_task_2.ру Coverage Results" MODIFIED="1580232517081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HW2" />
@@ -115,12 +120,35 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+=======
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HW1/my_prog.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="205" />
+    <option name="y" value="155" />
+    <option name="width" value="1825" />
+    <option name="height" value="1024" />
+  </component>
+>>>>>>> master
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scope" />
+=======
+>>>>>>> master
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -131,17 +159,28 @@
             <path>
               <item name="Homework" type="b2602c69:ProjectViewProjectNode" />
               <item name="Homework" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
               <item name="HW3" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="HW1" type="462c0819:PsiDirectoryNode" />
+>>>>>>> master
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+=======
+      <pane id="Scope" />
+>>>>>>> master
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+=======
+>>>>>>> master
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -155,6 +194,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.les_2_task_5">
     <configuration name="les_2_task_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Homework" />
@@ -276,6 +316,8 @@
       </list>
     </recent_temporary>
   </component>
+=======
+>>>>>>> master
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -286,6 +328,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579538599717</updated>
+<<<<<<< HEAD
       <workItem from="1579538623539" duration="1120000" />
       <workItem from="1579648154459" duration="548000" />
       <workItem from="1580141211020" duration="391000" />
@@ -293,10 +336,14 @@
       <workItem from="1580224782778" duration="8265000" />
       <workItem from="1580236066507" duration="232000" />
       <workItem from="1580621359316" duration="1066000" />
+=======
+      <workItem from="1579538623539" duration="794000" />
+>>>>>>> master
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="11495000" />
   </component>
   <component name="ToolWindowManager">
@@ -308,10 +355,30 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32939914" />
+=======
+    <option name="totallyTimeSpent" value="794000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="205" y="155" width="1825" height="1024" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24957936" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+>>>>>>> master
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
@@ -323,12 +390,20 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
+=======
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+>>>>>>> master
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/HW1/hello_world.py" />
     <entry file="file://$PROJECT_DIR$/Снимок экрана 2020-01-20 в 20.21.04.png" />
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/_pytest/__init__.py">
@@ -413,6 +488,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HW3/les_3_task_1.py">
+=======
+    <entry file="file://$PROJECT_DIR$/HW1/my_prog.py">
+>>>>>>> master
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
