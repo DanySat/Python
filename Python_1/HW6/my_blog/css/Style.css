@@ -1,0 +1,35 @@
+body {
+    background: #f8f8e8;
+}
+h1,h2,h3,h4,h5,h6 {
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+    background: #eaeaca;
+}
+p {
+    color: #707070;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 16px;
+    text-align: left;
+}
+ol {
+    list-style-image: url("../image/penguin_16x16_prev 14.53.09.png");
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+}
+
+.img {
+    border-color: black;
+    border-width: 2px;
+    border-style: dashed;
+    border-radius: 100px;
+}
+a {
+    color: firebrick;
+    font-size: 18px;
+    font-weight: bolder;
+    font-family: "Charter";
+}
